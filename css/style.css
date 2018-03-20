@@ -65,10 +65,10 @@ hr {
 .header-title {
 	font-weight: 300px;
 	font-size: 3em;
-	margin: 0.5em 0.25em;
 	display: inline-block;
 	color: #212121;
-	margin-left: 30px;
+	margin-left: 10px;
+	margin-top: 30px;
 	color: #7d97ad;
 }
 #h1{
